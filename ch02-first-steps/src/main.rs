@@ -1,8 +1,8 @@
 /// Safely adds two i32 integers with overflow protection
 /// Returns `Some(sum)` if no overflow occurs, `None` otherwise
-/// 
+///
 /// # Examples
-/// 
+///
 /// ```
 /// assert_eq!(add(10, 20), Some(30));
 /// assert_eq!(add(i32::MAX, 1), None);
