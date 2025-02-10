@@ -10,6 +10,7 @@ fn main() {
     println!("\t0.1 + 0.2: {:x}", (xyz.0 + xyz.1).to_bits());
     println!("\t      0.3: {:x}", (xyz.2).to_bits());
 
-    assert!(abc.0 + abc.1, abc.2);
-    assert!(xyz.0 + xyz.1, xyz.2);
+    let x = (-42_f32).sqrt();
+    assert_eq!(x, x);
+    assert!((1.0_f32 / 0.0).is_finite());
 }
