@@ -1,9 +1,9 @@
 [workspace]
 members = [
-    "ch01-cereals",
-    "ch01-letters",
+    # "ch01-cereals",
+    # "ch01-letters",
     "ch01-penguins",
-    "ch01-race",
+    # "ch01-race",
     "ch02-3arrays",
     "ch02-add-floats",
     "ch02-add-with-lifetimes",
@@ -17,5 +17,4 @@ members = [
     "ch02-str-simple-pattern",
     "ch02-try-as",
     "ch02-while-true-incr-count",
-
 ]
