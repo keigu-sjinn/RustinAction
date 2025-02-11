@@ -1,0 +1,21 @@
+[workspace]
+members = [
+    "ch01-cereals",
+    "ch01-letters",
+    "ch01-penguins",
+    "ch01-race",
+    "ch02-3arrays",
+    "ch02-add-floats",
+    "ch02-add-with-lifetimes",
+    "ch02-complex",
+    "ch02-first-steps",
+    "ch02-intro-to-numbers",
+    "ch02-match-needles",
+    "ch02-non-base2",
+    "ch02-simple-with-enumerate",
+    "ch02-simple-with-linenums",
+    "ch02-str-simple-pattern",
+    "ch02-try-as",
+    "ch02-while-true-incr-count",
+
+]
