@@ -17,5 +17,7 @@ members = [
     "ch02-str-simple-pattern",
     "ch02-try-as",
     "ch02-while-true-incr-count",
-    "ch02-introducing-vec",
+    "ch02-introducing-vec", 
+    "ch02-with-regex", 
+    "grep-lite",
 ]
