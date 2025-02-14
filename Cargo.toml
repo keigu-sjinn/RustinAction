@@ -1,4 +1,5 @@
 [workspace]
+resolver = "2"
 members = [
     # "ch01-cereals",
     # "ch01-letters",
@@ -19,5 +20,5 @@ members = [
     "ch02-while-true-incr-count",
     "ch02-introducing-vec", 
     "ch02-with-regex", 
-    "ch03-mock-file",
+    "ch03-mock-file", "ch03-newtype-pattern",
 ]
