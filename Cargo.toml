@@ -19,5 +19,5 @@ members = [
     "ch02-while-true-incr-count",
     "ch02-introducing-vec", 
     "ch02-with-regex", 
-    "grep-lite",
+    "ch03-mock-file",
 ]
