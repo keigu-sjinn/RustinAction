@@ -27,4 +27,5 @@ members = [
     "ch03-defining-files-neatly",
     "ch03-global-error",
     "ch03-file-result",
+    "ch03-parse-log",
 ]
