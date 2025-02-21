@@ -63,7 +63,7 @@ fn main() {
 
     let sat_ids = fetch_sat_ids();
     for sat_id in sat_ids {
-        let sat = base.connect(sat_id);
+        let _sat = base.connect(sat_id);
         let msg = Message {
             to_sat: sat_id,
             content: String::from("hello"),
