@@ -29,7 +29,5 @@ members = [
     "ch03-file-result",
     "ch03-parse-log",
     "ch03-file-states",
-    "ch03-skeleton-read-trait",
-    "ch03-implementing-display",
-    "ch04-check-sats", "ch04-check-sats-2",
+    "ch03-skeleton-read-trait", "ch03-implementing-display",
 ]
