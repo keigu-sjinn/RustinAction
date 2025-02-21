@@ -34,4 +34,5 @@ members = [
     "ch04-check-sats",
     "ch04-check-sats-2",
     "ch04-check-sats-3",
+    "ch04-sat-mailbox",
 ]
