@@ -1,6 +1,7 @@
 [workspace]
 resolver = "2"
 members = [
+    "ch05-f32-as-u32",
     # "ch01-cereals",
     # "ch01-letters",
     # "ch01-penguins",
@@ -36,4 +37,5 @@ members = [
     # "ch04-check-sats-3",
     # "ch04-sat-mailbox", "ch04-short-lived-strategy",
     "ch05-int-vs-int",
+    "ch05-f32-as-u32",
 ]
