@@ -38,4 +38,5 @@ members = [
     # "ch04-sat-mailbox", "ch04-short-lived-strategy",
     "ch05-int-vs-int",
     "ch05-f32-as-u32",
+    "ch05-to-oblivion",
 ]
