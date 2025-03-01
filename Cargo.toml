@@ -39,5 +39,6 @@ members = [
     "ch05-int-vs-int",
     "ch05-f32-as-u32",
     "ch05-to-oblivion",
-     "ch05-endianness",
+    "ch05-endianness",
+    "ch05-visualizing-f32",
 ]
